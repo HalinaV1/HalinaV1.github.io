@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/post-5/</loc>
-    <lastmod>2025-05-07T21:47:48+03:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/blue/</loc>
     <lastmod>2025-05-07T20:54:32+03:00</lastmod>
   </url><url>
